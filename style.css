@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    background-color:#bd6276;
+}
+
+#top{
+    background-color: aliceblue;
+    color:#080000;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#about img{
+    width: 280px;
+    height: 200px;
+}
+
+#favorite ul{
+    width: fit-content;
+    margin:auto;
+}
+
+#favorite .container{
+    display: flex;
+    justify-content: center;
+}
+
+#favorite .box{
+    margin: 20px;
+}
+
+#favorite .box img{
+    display: block;
+    width:280px;
+    height:200px;
+    margin-bottom: 10px;
+}
